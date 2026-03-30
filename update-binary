@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: MpOtSpnJFgc5kuIpRCJoy1YAx3U=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest: 6YuGWCE1V4Tm48H6y9ODotciPvA=
+
+Name: install.sh
+SHA1-Digest: wyh+na8gDt1E7X+zZ+2D2+xu3UI=
+
+Name: system/vendor/etc/media_codecs.xml
+SHA1-Digest: +2U4VqZDwj2WoJ0Ejz54t7Nt7aw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 48vhVGeUh/rYWRApA7wpQtDWjXA=
+
+Name: system/vendor/etc/media_profiles_V1_0.xml
+SHA1-Digest: Qyl+H8EGmTvGTLxGt0yz5ffbKWg=
+
+Name: system/vendor/etc/media_profiles_vendor.xml
+SHA1-Digest: GGDmOck54C2hbAEKul+0CRPh0Zo=
+
+Name: system/vendor/etc/media_profiles.xml
+SHA1-Digest: +g5YFM6onHxtoD08c5Gyiyw0Ojg=
+
+Name: system/vendor/etc/media_profiles_scuba.xml
+SHA1-Digest: U2P/8u3YIpgC49TFMWKtacgbuPM=
+
