@@ -1,6 +1,6 @@
 id=sr.mat
 name=vulkan Auto-switcher vbmetafix performance mod
-version=v12
+version=v1
 versionCode=10
 author=sr.mat
 description=Auto-switch vulkan/skiaGL por juego • build.prop tuning • vbmeta fix • surfaceFlinger optimizations
