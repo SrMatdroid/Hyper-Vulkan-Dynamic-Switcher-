@@ -18,13 +18,6 @@ El script monitoriza en tiempo real más de 14 títulos, incluyendo:
 * Truckers of Europe 3
 * ¡Y muchos más!
 
-## 📦 Instalación
-1.  Descarga el repositorio (o el .zip en Releases).
-2.  Instala a través de **Magisk**, **Kitsune Mask** o **KernelSU**.
-3.  Reinicia y disfruta.
-
-## 📜 Licencia
-Este proyecto está bajo la licencia **GPL v3**. El software debe seguir siendo libre. Si usas este código, debes compartir tus mejoras y citar la fuente original.
 V2
 HyperVulkan Switcher v2.0 - Dynamic Optimization Engine
 Lleva el rendimiento de tu dispositivo al siguiente nivel con la nueva versión estable de HyperVulkan Switcher. Este módulo Magisk no es solo un simple set de props; es un motor inteligente que detecta en tiempo real qué estás haciendo con tu móvil para ofrecerte la máxima potencia en juegos y el mejor ahorro de energía en el uso diario.  
