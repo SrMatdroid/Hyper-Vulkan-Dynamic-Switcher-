@@ -18,8 +18,7 @@ El script monitoriza en tiempo real más de 14 títulos, incluyendo:
 * Truckers of Europe 3
 * ¡Y muchos más!
 
-V2
-HyperVulkan Switcher v2.0 - Dynamic Optimization Engine
+HyperVulkan Switcher - Dynamic Optimization Engine
 Lleva el rendimiento de tu dispositivo al siguiente nivel con la nueva versión estable de HyperVulkan Switcher. Este módulo Magisk no es solo un simple set de props; es un motor inteligente que detecta en tiempo real qué estás haciendo con tu móvil para ofrecerte la máxima potencia en juegos y el mejor ahorro de energía en el uso diario.  
 ¿Qué hace a la v2.0 especial?
 Auto-Switcher Inteligente: El servicio monitoriza la ventana activa y conmuta automáticamente entre el renderizado Skia Vulkan (para juegos) y Skia OpenGL (para apps normales), optimizando el consumo de batería.
@@ -30,7 +29,9 @@ Audio Hi-Fi & Bluetooth: Optimización del buffer de audio y soporte para LDAC/A
 ## 📦 Instalación
 1.  Descarga el repositorio (o el .zip en Releases).
 2.  Instala a través de **Magisk**, **Kitsune Mask** o **KernelSU**.
-3.  Reinicia y disfruta.
+3.  Reinicia y disfruta.:)
+
+4. Tip de monitoreo: Para ver si el motor está trabajando en vivo, usa  watch -n 1 getprop debug.hwui.renderer o este otro logcat -s VULKAN_ENGINE  en Termux (con root) y verás cómo cambia de modo al abrir tus juegos favoritos.:)
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia **GPL v3**. El software debe seguir siendo libre. Si usas este código, debes compartir tus mejoras y citar la fuente original.
